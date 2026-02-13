@@ -114,7 +114,7 @@ button_no.addEventListener('click', () => {
 button_yes.addEventListener('click', () =>{
     image.classList.add('fade');
     button_area.innerHTML = '';
-    button_area.textContent = "Okay bukas g tayo date night bruh at 2pm sa acqua ;) See you <3";
+    button_area.textContent = "Okay bukas g tayo date bruh at 2pm sa acqua ;) See you <3";
     question.textContent = "Thank you Mommy - daddy and chia <3"
     setTimeout(() => {
         image.src = 'assets/images/content-pics/img-8.jpg';
